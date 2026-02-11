@@ -1,0 +1,8 @@
+venv/
+data/
+*.wav
+__pycache__/
+.DS_Store
+.venv/
+# AudioSet metadata is downloaded separately (see README)
+audioset/

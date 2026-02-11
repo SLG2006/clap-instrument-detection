@@ -1,0 +1,8 @@
+numpy
+librosa
+soundfile
+tqdm
+torch
+torchaudio
+transformers
+yt-dlp
